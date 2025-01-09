@@ -1,4 +1,4 @@
-# Cleopatra
+# Cleopatra [^1]
 
 Coming soon!
 
@@ -33,6 +33,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
 
-[^1]: https://en.m.wikipedia.org/wiki/Cleopatra
+[^1]: https://en.wikipedia.org/wiki/Cleopatra
 
 [^2]: https://github.com/aldrinbalitbit/Cleopatra/blob/main/LICENSE
