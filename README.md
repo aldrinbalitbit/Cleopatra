@@ -4,11 +4,11 @@ Coming soon!
 
 ## :star: Stars
 
-<a href="https://star-history.com/#aldrinbalitbit/Cleopatra&Date">
+<a href="https://star-history.com/#aldringames/Cleopatra&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=aldrinbalitbit/Cleopatra&Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=aldrinbalitbit/Cleopatra&Date&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aldrinbalitbit/Cleopatra&Date&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=aldringames/Cleopatra&Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=aldringames/Cleopatra&Date&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aldringames/Cleopatra&Date&type=Date" />
  </picture>
 </a>
 
@@ -17,7 +17,7 @@ Coming soon!
 This source code was licensed under the GNU General Public License 3.0. [^2]
 
 ```
-Copyright (C) 2006-2025  Aldrin Morris D. Balitbit <aldrinbalitbit1127@gmail.com>
+Copyright (c) 2006 Aldrin Games
 
 Cleopatra is overhauled source code: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -35,4 +35,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 [^1]: https://en.wikipedia.org/wiki/Cleopatra
 
-[^2]: https://github.com/aldrinbalitbit/Cleopatra/blob/main/LICENSE
+[^2]: https://github.com/aldringames/Cleopatra/blob/main/LICENSE
